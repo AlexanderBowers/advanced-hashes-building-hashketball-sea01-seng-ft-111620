@@ -1,7 +1,7 @@
 # Write your code here!
 def game_hash
   game_hash = {}
-  
+
 
 end
 #top level has two keys, :home, and :array
