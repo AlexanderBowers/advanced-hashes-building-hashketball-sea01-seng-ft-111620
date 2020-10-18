@@ -1,6 +1,10 @@
 # Write your code here!
 def game_hash
   game_hash = {}
+  game_hash[:home] = {}
+  game_hash[:home][:team_name] = "Brooklyn Nets"
+  game_hash[:home][:colors] = ["Black, White"]
+  game_hash[:home][:players] = []
 
 end
 #top level has two keys, :home, and :array
