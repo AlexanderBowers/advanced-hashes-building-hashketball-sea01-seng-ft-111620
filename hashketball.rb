@@ -15,7 +15,7 @@ hash
     ],
   }
 
-               
+
 :away => {
   :team_name => "",
   :colors =>  ["", "", ""],
