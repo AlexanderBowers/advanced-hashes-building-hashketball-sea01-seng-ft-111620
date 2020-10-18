@@ -11,7 +11,8 @@ def game_hash
     game_hash[:home][:players][0][:shoe] = 16
     game_hash[:home][:players][0][:points] = 22
     game_hash[:home][:players][0][:rebounds] = 12
-    game_hash[:home][:players][0][]
+    game_hash[:home][:players][0][:assists] = 12
+    game_hash[:home][:players][0][:steals] = 3
   game_hash[:home][:players][1] = {}
   game_hash[:home][:players][2] = {}
   game_hash[:home][:players][3] = {}
